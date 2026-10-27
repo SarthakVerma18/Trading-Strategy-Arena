@@ -1,0 +1,15 @@
+symbol,ex_date,factor,action
+AXISBANK,2014-07-28,5,5:1 stock split (FV 10 -> 2)
+HDFCBANK,2011-07-14,5,5:1 stock split (FV 10 -> 2)
+HDFCBANK,2019-09-19,2,2:1 stock split (FV 2 -> 1)
+ICICIBANK,2014-12-04,5,5:1 stock split (FV 10 -> 2)
+INFY,2014-12-02,2,1:1 bonus issue
+INFY,2015-06-15,2,1:1 bonus issue
+INFY,2018-09-04,2,1:1 bonus issue
+ITC,2016-07-01,1.5,1:2 bonus issue
+RELIANCE,2017-09-07,2,1:1 bonus issue
+SBIN,2014-11-20,10,10:1 stock split (FV 10 -> 1)
+TATAMOTORS,2011-09-12,5,5:1 stock split (FV 10 -> 2)
+TCS,2018-05-31,2,1:1 bonus issue
+WIPRO,2017-06-13,2,1:1 bonus issue
+WIPRO,2019-03-06,1.3333333333333333,1:3 bonus issue

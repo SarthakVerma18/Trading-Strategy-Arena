@@ -1,0 +1,14 @@
+numpy>=1.24
+pandas>=2.0
+matplotlib>=3.7
+scikit-learn>=1.3
+scipy>=1.10
+# tkinter ships with most Python installs; on Debian/Ubuntu if missing:
+#   sudo apt-get install python3-tk
+
+# Optional: only needed for the "yfinance" live data source / fetch_data.py.
+# The bundled "real" (offline CSV) and "synthetic" sources work without it.
+yfinance>=0.2
+
+# Development / verification: python -m pytest -q
+pytest>=8
